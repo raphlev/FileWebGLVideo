@@ -1,0 +1,1 @@
+From: https://developer.mozilla.org/fr/docs/Web/API/WebGL_API/Tutorial/Animation_de_textures_en_WebGL
